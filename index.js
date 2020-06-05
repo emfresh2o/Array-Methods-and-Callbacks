@@ -2,6 +2,7 @@ import { fifaData } from './fifa.js';
 console.log(fifaData);
 
 console.log('its working');
+
 // ⚽️ M  V P ⚽️ //
 
 /* Task 1: Investigate the data above. Practice accessing data by console.log-ing the following pieces of data 
